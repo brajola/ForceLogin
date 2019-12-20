@@ -21,6 +21,7 @@ Tested in Magento Community Version 2.3.3
 
 ```php bin/magento cache:clean```
 
+
 ###Use
 The initial idea of this module is to block access to all store URLs for unlogged customers but it is possible to add URLs to a whitelist where they will be ignored.
 This module creates a new section on the Magento admin page (Stores> Settings> Configuration) where the following actions are possible:
