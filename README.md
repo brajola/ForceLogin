@@ -30,3 +30,6 @@ This module creates a new section on the Magento admin page (Stores> Settings> C
  - Enable and disable the module
 
  - Insert, Edit and Delete Whitelist Items
+
+### Bugs, Help and Fixes
+If you encounter any problems or would like to help develop this module, please contact us at [brajola@gmail.com](mailto:brajola@gmail.com)
