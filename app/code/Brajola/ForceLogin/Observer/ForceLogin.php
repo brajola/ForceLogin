@@ -64,6 +64,9 @@ class ForceLogin implements ObserverInterface
      */
     protected $_internal_whitelist;
 
+    /**
+     * @var Array
+     */
     protected $_whitelist;
 
     public function __construct(
